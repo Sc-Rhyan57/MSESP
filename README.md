@@ -1,6 +1,6 @@
 # MSESP
 # **ATENÇÃO!**
-> **ESTE README.MD NÃO É OFICIAL!
+> ESTE README.MD NÃO É OFICIAL!
 
 # **📜 ESPLibrary - Documentação Completa**  
 **Uma biblioteca avançada de ESP para Roblox**, criada por `mstudio45`.  
@@ -16,7 +16,7 @@
 
 ## **📂 Importando a Biblioteca**
 ```lua
-local ESPLibrary = loadstring(game:HttpGet("URL_DA_LIBRARY"))()
+local ESPLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sc-Rhyan57/MSESP/refs/heads/main/source.lua"))()
 ```
 
 ---
